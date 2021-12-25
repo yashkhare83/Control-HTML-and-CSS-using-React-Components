@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.heading {
+  color: yellow;
+  background-color: gray;
+}
+
+.Container {
+  background-color: lightgrey;
+  color: red;
+  padding: 22px;
+}
